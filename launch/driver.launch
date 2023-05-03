@@ -1,0 +1,4 @@
+<launch>
+	<node name="gps" pkg="rtk_gps" type="gps_driver.py" output="screen"> </node>
+	<param name="port" type="string" value="/dev/ttyACM0"></param>
+</launch>
