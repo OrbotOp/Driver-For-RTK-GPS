@@ -25,15 +25,15 @@ It uses the correction data to improve its own computed position from the GNSS a
 
   Scatter plot            |  Line plot             | 
 :-------------------------:|:------------------------:|
-| <img src="gpsdriver/data/static_open_scatter.png" width=500px> | <img src="gpsdriver/data/static_open_line.png" width=500px> | 
-| <img src="gpsdriver/data/static_noisy_scatter.png" width=500px> | <img src="gpsdriver/data/static_noisy_line.png" width=500px> |
+| <img src="data/static_open_scatter.png" width=500px> | <img src="data/static_open_line.png" width=500px> | 
+| <img src="data/static_noisy_scatter.png" width=500px> | <img src="data/static_noisy_line.png" width=500px> |
 
 # Walking Data Plots
 
   Scatter plot            |  Line plot             | 
 :-------------------------:|:------------------------:|
-| <img src="gpsdriver/data/walk_open_scatter.png" width=500px> | <img src="gpsdriver/data/walk_open_line.png" width=500px> | 
-| <img src="gpsdriver/data/walk_noisy_scatter.png" width=500px> | <img src="gpsdriver/data/walk_noisy_line.png" width=500px> |
+| <img src="data/walk_open_scatter.png" width=500px> | <img src="data/walk_open_line.png" width=500px> | 
+| <img src="data/walk_noisy_scatter.png" width=500px> | <img src="data/walk_noisy_line.png" width=500px> |
 
 
 
